@@ -1,0 +1,14 @@
+{
+  "202610": {
+    "url": "https://makedatacount.org/wp-content/uploads/2026/10/data_citations_202610.csv.zip",
+    "archive_name": "data_citations_202610.csv.zip",
+    "csv_member": "data_citations_202610.csv",
+    "compressed_bytes": 105731352,
+    "csv_bytes": 654613481,
+    "archive_sha256": "7c1a1bfbf635937d121f6efffe48b0e4cc7527d93ddefdbfbb5dad3a2348e0a7",
+    "csv_sha256": "9aa888f06a2cdc1b0db0a42ef2c567e6d8f685f296262990944fede08b652ff1",
+    "reference_fingerprint_recorded_on": "2026-10-18",
+    "fingerprint_note": "Locally computed from the official downloaded file; not a publisher-provided checksum.",
+    "dataset_license": "CC0-1.0"
+  }
+}

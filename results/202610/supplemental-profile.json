@@ -1,0 +1,221 @@
+{
+  "repeated_pair_keys": [
+    {
+      "publication_doi": "10.1590/1518-8345.6177.3857",
+      "dataset_id": "10.17605/osf.io/26qmx",
+      "n": 2,
+      "labels": [
+        "Primary",
+        "Secondary"
+      ]
+    },
+    {
+      "publication_doi": "10.1590/1518-8345.6618.4025",
+      "dataset_id": "10.24950/o/28/20/3/2020",
+      "n": 2,
+      "labels": [
+        "Secondary",
+        "Unclassified"
+      ]
+    },
+    {
+      "publication_doi": "10.1590/1518-8345.6655.4088",
+      "dataset_id": "10.17605/osf.io/nkmzb",
+      "n": 2,
+      "labels": [
+        "Primary",
+        "Secondary"
+      ]
+    },
+    {
+      "publication_doi": "10.1590/1518-8345.6732.4034",
+      "dataset_id": "10.17605/osf.io/rbsg4",
+      "n": 2,
+      "labels": [
+        "Primary",
+        "Secondary"
+      ]
+    },
+    {
+      "publication_doi": "10.1590/1518-8345.6827.4073",
+      "dataset_id": "10.25824/redu/cxjhtw",
+      "n": 2,
+      "labels": [
+        "Primary",
+        "Secondary"
+      ]
+    }
+  ],
+  "exact_duplicate_rows": [],
+  "self_doi_edges": [
+    {
+      "citation_type": "Primary",
+      "n_rows": 6680
+    },
+    {
+      "citation_type": "Secondary",
+      "n_rows": 11
+    },
+    {
+      "citation_type": "Unclassified",
+      "n_rows": 52
+    }
+  ],
+  "verified_examples": [
+    {
+      "publication_doi": "10.11576/dimawe-4862",
+      "dataset_id": "10.11576/dimawe-4862",
+      "dataset_id_type": "DOI",
+      "repository": "oexl.gjhybo",
+      "citation_type": "Primary",
+      "release": "202610"
+    },
+    {
+      "publication_doi": "10.1371/journal.pone.0012737",
+      "dataset_id": "SRR037032",
+      "dataset_id_type": "accession",
+      "repository": "GenBank/ENA/DDBJ",
+      "citation_type": "Primary",
+      "release": "202610"
+    },
+    {
+      "publication_doi": "10.1371/journal.pone.0012737",
+      "dataset_id": "SRX017250",
+      "dataset_id_type": "accession",
+      "repository": "GenBank/ENA/DDBJ",
+      "citation_type": "Unclassified",
+      "release": "202610"
+    }
+  ],
+  "sra_identifier_prefixes": [
+    {
+      "prefix": "SRR",
+      "n_rows": 76470,
+      "identifiers": 72135
+    },
+    {
+      "prefix": "SRX",
+      "n_rows": 22419,
+      "identifiers": 20738
+    },
+    {
+      "prefix": "SRP",
+      "n_rows": 19934,
+      "identifiers": 16214
+    },
+    {
+      "prefix": "ERR",
+      "n_rows": 16576,
+      "identifiers": 15636
+    },
+    {
+      "prefix": "DRR",
+      "n_rows": 3588,
+      "identifiers": 3449
+    },
+    {
+      "prefix": "ERP",
+      "n_rows": 3560,
+      "identifiers": 2370
+    },
+    {
+      "prefix": "ERX",
+      "n_rows": 3208,
+      "identifiers": 3149
+    },
+    {
+      "prefix": "DRX",
+      "n_rows": 1143,
+      "identifiers": 1104
+    },
+    {
+      "prefix": "SRS",
+      "n_rows": 192,
+      "identifiers": 90
+    },
+    {
+      "prefix": "DRP",
+      "n_rows": 146,
+      "identifiers": 128
+    },
+    {
+      "prefix": "ERS",
+      "n_rows": 9,
+      "identifiers": 9
+    }
+  ],
+  "publication_prefixes": [
+    {
+      "doi_prefix": "10.3390",
+      "n_rows": 870015
+    },
+    {
+      "doi_prefix": "10.1016",
+      "n_rows": 866217
+    },
+    {
+      "doi_prefix": "10.1186",
+      "n_rows": 691017
+    },
+    {
+      "doi_prefix": "10.1038",
+      "n_rows": 603653
+    },
+    {
+      "doi_prefix": "10.1371",
+      "n_rows": 532115
+    },
+    {
+      "doi_prefix": "10.3389",
+      "n_rows": 524419
+    },
+    {
+      "doi_prefix": "10.1128",
+      "n_rows": 505972
+    },
+    {
+      "doi_prefix": "10.1007",
+      "n_rows": 390494
+    },
+    {
+      "doi_prefix": "10.3897",
+      "n_rows": 331410
+    },
+    {
+      "doi_prefix": "10.1093",
+      "n_rows": 260441
+    },
+    {
+      "doi_prefix": "10.1002",
+      "n_rows": 255895
+    },
+    {
+      "doi_prefix": "10.1111",
+      "n_rows": 180462
+    },
+    {
+      "doi_prefix": "10.1080",
+      "n_rows": 180408
+    },
+    {
+      "doi_prefix": "10.1021",
+      "n_rows": 129004
+    },
+    {
+      "doi_prefix": "10.3114",
+      "n_rows": 123111
+    }
+  ],
+  "stdlib_csv_check": {
+    "header": [
+      "publication_doi",
+      "dataset_id",
+      "dataset_id_type",
+      "repository",
+      "citation_type",
+      "release"
+    ],
+    "data_rows": 8712962,
+    "rows_with_wrong_field_count": 0
+  }
+}

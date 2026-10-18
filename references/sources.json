@@ -1,0 +1,12 @@
+{
+  "observed_on": "2026-10-18",
+  "upstream_repository": "https://github.com/digital-science/ds-make-data-count-pipeline-external",
+  "upstream_commit": "cf5b5c71a3a8ea56e8c02df74568fd0cb28e1a60",
+  "announcement": "https://makedatacount.org/read-our-blog/new-frontier-for-open-data-metrics/",
+  "landing_page": "https://makedatacount.org/data-citation/",
+  "notes": [
+    "Dataset asserted CC0 by the official landing page.",
+    "Source documents and third-party paper full texts are linked rather than copied.",
+    "Downloaded CSV counts differ from the documentation headline; exact reconciliation remains unresolved."
+  ]
+}

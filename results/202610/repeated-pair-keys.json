@@ -1,0 +1,47 @@
+[
+  {
+    "publication_doi": "10.1590/1518-8345.6177.3857",
+    "dataset_id": "10.17605/osf.io/26qmx",
+    "n": 2,
+    "labels": [
+      "Primary",
+      "Secondary"
+    ]
+  },
+  {
+    "publication_doi": "10.1590/1518-8345.6618.4025",
+    "dataset_id": "10.24950/o/28/20/3/2020",
+    "n": 2,
+    "labels": [
+      "Secondary",
+      "Unclassified"
+    ]
+  },
+  {
+    "publication_doi": "10.1590/1518-8345.6655.4088",
+    "dataset_id": "10.17605/osf.io/nkmzb",
+    "n": 2,
+    "labels": [
+      "Primary",
+      "Secondary"
+    ]
+  },
+  {
+    "publication_doi": "10.1590/1518-8345.6732.4034",
+    "dataset_id": "10.17605/osf.io/rbsg4",
+    "n": 2,
+    "labels": [
+      "Primary",
+      "Secondary"
+    ]
+  },
+  {
+    "publication_doi": "10.1590/1518-8345.6827.4073",
+    "dataset_id": "10.25824/redu/cxjhtw",
+    "n": 2,
+    "labels": [
+      "Primary",
+      "Secondary"
+    ]
+  }
+]

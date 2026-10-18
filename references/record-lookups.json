@@ -1,0 +1,26 @@
+{
+  "observed_on": "2026-10-18",
+  "nondata_doi": {
+    "publication_doi": "10.11576/dimawe-4862",
+    "dataset_id": "10.11576/dimawe-4862",
+    "citation_type": "Primary",
+    "metadata_url": "https://api.datacite.org/dois/10.11576/dimawe-4862",
+    "observed_resourceType": "Article",
+    "observed_resourceTypeGeneral": "Text",
+    "observed_schemaOrg": "ScholarlyArticle"
+  },
+  "accession_hierarchy": {
+    "publication_doi": "10.1371/journal.pone.0012737",
+    "run": "SRR037032",
+    "run_label": "Primary",
+    "experiment": "SRX017250",
+    "experiment_label": "Unclassified",
+    "sample": "SAMN00009490",
+    "study": "PRJNA79573",
+    "secondary_study": "SRP002028",
+    "metadata_url": "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SRR037032&result=read_run&fields=run_accession,experiment_accession,sample_accession,study_accession,secondary_study_accession&format=tsv",
+    "source_article_xml": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2939879/fullTextXML",
+    "context_observation": "Experiment appears in article prose and Table 4; run appears in Table 4 with version suffix .2.",
+    "limitation": "Selected example; prevalence and classification error rates are not established."
+  }
+}

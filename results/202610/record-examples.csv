@@ -1,0 +1,4 @@
+case,publication_doi,dataset_id,dataset_id_type,repository,citation_type,release,notes
+DOI resource type check,10.11576/dimawe-4862,10.11576/dimawe-4862,DOI,oexl.gjhybo,Primary,202610,Article DOI equals dataset ID; DataCite registers it as ScholarlyArticle/Text rather than data
+SRA hierarchy run,10.1371/journal.pone.0012737,SRR037032,accession,GenBank/ENA/DDBJ,Primary,202610,ENA resolves run to experiment SRX017250; see companion row and TSV
+SRA hierarchy experiment,10.1371/journal.pone.0012737,SRX017250,accession,GenBank/ENA/DDBJ,Unclassified,202610,Same publication cites the parent experiment of SRR037032 according to ENA API

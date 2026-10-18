@@ -1,0 +1,8 @@
+{
+  "release": "202610",
+  "total_rows": 8712962,
+  "distinct_nonmissing_repository_values": 2531,
+  "missing_null": 0,
+  "missing_empty_string": 0,
+  "missing_whitespace_only": 0
+}
